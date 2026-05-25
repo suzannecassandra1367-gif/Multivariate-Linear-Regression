@@ -93,12 +93,12 @@ plt.show()
 ```
 ## Output:
 
+<img width="764" height="536" alt="Screenshot 2026-05-25 114652" src="https://github.com/user-attachments/assets/d6c22c89-baf4-4070-96aa-2c56feb72c00" />
 
+<img width="535" height="206" alt="Screenshot 2026-05-25 114718" src="https://github.com/user-attachments/assets/81fb710d-c34e-4581-868c-eca54f510723" />
 
-### Insert your output
-<img width="764" height="536" alt="image" src="https://github.com/user-attachments/assets/c4511a84-28b9-4fd1-a2e1-c90c877b6693" />
-<img width="535" height="206" alt="image" src="https://github.com/user-attachments/assets/fbd8ead5-a9d5-49bd-a70d-300351a3fee0" />
-<img width="932" height="618" alt="image" src="https://github.com/user-attachments/assets/58af1d32-5b26-4ee8-8fb5-9f8a805f6567" />
+<img width="932" height="618" alt="Screenshot 2026-05-25 114749" src="https://github.com/user-attachments/assets/c4503384-d740-4b80-b9ce-ea3bd98e257e" />
+
 
 
 
